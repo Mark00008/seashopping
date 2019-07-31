@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Vue Element Admin',
+  title: 'BS_Frame',
 
   /**
    * @type {boolean} true | false
